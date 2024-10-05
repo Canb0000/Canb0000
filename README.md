@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Canb0000
-- 👀 I’m interested in HTML, C++, Javascript, Python
-- 🌱 I’m currently learning HTML
+- 💻 I code in Typescript, Python, HTML, CSS, Javascript.
+- 🗂️ I prefer working with NextJS framework.
